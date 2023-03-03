@@ -1,2 +1,1 @@
-# GTMVC_PROJ
-Grupo Toberto's MVC Project
+Build GTMVC Project quickly and focus in your logic

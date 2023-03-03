@@ -1,0 +1,3 @@
+<resources>
+    <error name="error1">{"Error":{"Type":1, "Description":"Error 1."}}</error>
+</resources>

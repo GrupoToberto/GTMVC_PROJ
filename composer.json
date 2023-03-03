@@ -1,0 +1,15 @@
+{
+    "name": "grupotoberto/gtmvc_proj",
+    "description": "PHP MVC project to quickly build web sites",
+    "type": "project",
+    "require": {
+        "grupotoberto/jlmvc": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Grupo Toberto",
+            "email": "jlsystemsmex@hotmail.com"
+        }
+    ]
+}
