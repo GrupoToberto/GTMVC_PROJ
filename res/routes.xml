@@ -1,0 +1,13 @@
+<routes>
+    <route>
+        <url>
+            <controller>jlController</controller>
+            <actionResult explode="false">res</actionResult>
+        </url>
+        <redirection>
+            <controller>TestController</controller>
+            <actionResult>getResource</actionResult>
+            <header>Content-type: text/css</header>
+        </redirection>
+    </route>
+</routes>
