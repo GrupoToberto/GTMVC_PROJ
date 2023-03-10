@@ -1,7 +1,7 @@
 <routes>
     <route>
         <url>
-            <controller>jlController</controller>
+            <controller>jl</controller>
             <actionResult explode="false">res</actionResult>
         </url>
         <redirection>

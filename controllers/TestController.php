@@ -5,8 +5,10 @@
 
     class TestController extends Controller{
 
-        public function Welcome(){
-            echo self::View();
+        public function Welcome($Params){ //Sample to test many languages
+            $lang=isset($Params) && count($Params)>0?$Params[0]:null;
+
+            echo self::View($lang);
         }
 
     }

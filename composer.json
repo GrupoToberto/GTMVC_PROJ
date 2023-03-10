@@ -3,7 +3,7 @@
     "description": "PHP MVC project to quickly build web sites",
     "type": "project",
     "require": {
-        "grupotoberto/jlmvc": "^1.2"
+        "grupotoberto/jlmvc": "^1.3"
     },
     "license": "MIT",
     "authors": [

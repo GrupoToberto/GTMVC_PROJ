@@ -2,4 +2,5 @@
     <string name="mainNamespace">com\myCompany\app</string>
     <string name="DEFAULT_CONTROLLER">TestController</string>
     <string name="DEFAULT_METHOD">Welcome</string>
+    <string name="welcome">Welcome to GTMVC Lite Project!</string>
 </resources>

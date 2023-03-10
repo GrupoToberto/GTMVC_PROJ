@@ -1,0 +1,8 @@
+:root {
+    --mainColor: #22AB60;
+  }
+
+.btn-primary {
+    background-color: var(--mainColor);
+    border-color: var(--mainColor);
+}
